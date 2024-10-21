@@ -33,4 +33,28 @@
     - Add data resource page
     - Revise home page
 
+2024-03-18  Todd Valentic
+    - Release 1.0.19
+    - Update uptime table to have both online and to-date columns
+
+2023-04-17  Todd Valentic
+    - Release 1.0.20
+    - Updated publication list
+
+2024-06-12  Todd Valentic
+    - Release 1.0.21
+    - Updated publication list (inchin 2024)
+    - Reverse order publications are listed (newest first)
+
+2024-06-14  Todd Valentic
+    - Release 1.0.22
+    - Add NSF award acknowlegement block to home page
+
+2024-07-02  Todd Valentic
+    - Release 1.0.23
+    - Add tab for redline fusion wind movies
+
+2024-10-21  Todd Valentic
+    - Release 1.0.25
+    - Add Tutorials to Software page
 
